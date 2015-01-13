@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * @category    design
+ * @package     new-package
+ * CC BY 3.0    2015 Dragan Filipovic
+ */
+-->
+
+<theme>
+    <parent>rwd/default</parent>
+</theme>
