@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * @category    design
+ * @package     new-package
+ * CC BY 3.0    2014 Dragan Filipovic
+ */
+-->
+
+<layout>
+    <!-- Global -->
+    <default>
+        <!-- Head -->
+        <reference name="head">
+        </reference>
+        <!-- //Head -->
+
+        <!-- Header -->
+        <reference name="header">
+        </reference>
+        <!-- //Header -->
+
+        <!-- Root -->
+        <reference name="root">
+        </reference>
+        <!-- //Root -->
+
+        <!-- Footer -->
+        <reference name="footer">
+        </reference>
+        <!-- //Footer -->
+
+        <!-- Left Column -->
+        <reference name="left">
+        </reference>
+        <!-- //Left Column -->
+
+        <!-- Right Column -->
+        <reference name="right">
+        </reference>
+        <!-- //Right Column -->
+
+    </default>
+    <!-- //Global -->
+
+    <customer_logged_out>
+    </customer_logged_out>
+
+    <customer_logged_in>
+    </customer_logged_in>
+
+    <catalog_category_default>
+    </catalog_category_default>
+
+    <catalog_category_layered>
+    </catalog_category_layered>
+
+    <catalog_product_view>
+    </catalog_product_view>
+
+    <catalog_product_view>
+    </catalog_product_view>
+
+    <catalogsearch_result_index>
+    </catalogsearch_result_index>
+
+    <customer_account>
+    </customer_account>
+
+    <checkout_onepage_index>
+    </checkout_onepage_index>
+
+    <PRODUCT_TYPE_simple>
+    </PRODUCT_TYPE_simple>
+
+</layout>
